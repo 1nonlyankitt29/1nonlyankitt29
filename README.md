@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1nonlyankitt29&label=Profile%20views&color=0e75b6&style=flat" alt="1nonlyankitt29" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://github-profile-trophy.vercel.app/?username=1nonlyankitt29" alt="1nonlyankitt29" /></a> </p>
+<p align="left"> <https://github-profile-trophy.vercel.app/?username=ryo-ma>(https://github.com/ryo-ma/github-profile-trophy) <img src="https://github-profile-trophy.vercel.app/?username=1nonlyankitt29" alt="1nonlyankitt29" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
