@@ -1,3 +1,8 @@
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/277643261567434753)](https://discord.com/users/1122071044824506478)
+
+## Visitors:
+![~ Hacker_xD#0007](https://profile-counter.glitch.me/1nonlyankitt29/count.svg)
 <h1 align="center">Hi 👋, I'm Ankit Bishnoi</h1>
 
 
