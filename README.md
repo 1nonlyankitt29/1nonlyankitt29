@@ -1,4 +1,4 @@
-(https://github-profile-trophy.vercel.app/?1nonlyankitt29=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Visitors:
 ![~ Hacker_xD#0007](https://profile-counter.glitch.me/1nonlyankitt29/count.svg)
