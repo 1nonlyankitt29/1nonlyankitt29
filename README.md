@@ -1,25 +1,27 @@
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1122071044824506478)](https://discord.com/users/1122071044824506478)
 
 ## Visitors:
-![~ Hacker_xD#0007](https://profile-counter.glitch.me/1nonlyankitt29/count.svg)
-<h1 align="center">Hi 👋, I'm Ankit Bishnoi</h1>
+![~ Hacker_xD#0007](https://profile-counter.glitch.me/ItzYourHacker/count.svg)
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/g2C4jQq4en) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Itzyourhacker&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Itzyourhacker&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzyourhacker&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Itzyourhacker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Itzyourhacker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![]([https://visitcount.itsvg.in/api?id=Itzyourhacker&icon=0&color=0)](https://visitcount.itsvg.in](https://profile-counter.glitch.me/ItzYourHacker/count.svg)https://profile-counter.glitch.me/ItzYourHacker/count.svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1nonlyankitt29&label=Profile%20views&color=0e75b6&style=flat" alt="1nonlyankitt29" /> </p>
 
-<p align="left"> <https://github-profile-trophy.vercel.app/?username=ryo-ma> <img src="https://github-profile-trophy.vercel.app/?username=1nonlyankitt29" alt="1nonlyankitt29" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/1nonlyankitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1nonlyankitt" height="30" width="40" /></a>
-<a href="https://discord.gg/bishnoiankitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bishnoiankitt" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1nonlyankitt29&show_icons=true&locale=en&layout=compact" alt="1nonlyankitt29" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1nonlyankitt29&show_icons=true&locale=en" alt="1nonlyankitt29" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1nonlyankitt29&" alt="1nonlyankitt29" /></p>
