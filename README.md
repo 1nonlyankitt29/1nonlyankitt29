@@ -1,4 +1,4 @@
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1122071044824506478)](https://discord.com/users/1122071044824506478)
 
 ## Visitors:
 ![~ Hacker_xD#0007](https://profile-counter.glitch.me/1nonlyankitt29/count.svg)
