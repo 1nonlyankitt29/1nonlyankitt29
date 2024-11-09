@@ -2,7 +2,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1122071044824506478)](https://discord.com/users/1122071044824506478)
 
 ## Visitors:
-![~ Hacker_xD#0007](https://profile-counter.glitch.me/ItzYourHacker/count.svg)
+![1nonlyankitt29](https://profile-counter.glitch.me/1nonlyankitt29/count.svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/g2C4jQq4en) 
